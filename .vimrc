@@ -28,7 +28,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'morhetz/gruvbox'
 Plug 'leafgarland/typescript-vim'
 Plug 'vim-utils/vim-man'
-Plug 'valloric/youcompleteme'
 Plug 'mbbill/undotree'
 Plug 'vim-airline/vim-airline'
 Plug 'chriskempson/base16-vim'
